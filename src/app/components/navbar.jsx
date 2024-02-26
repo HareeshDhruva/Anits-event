@@ -23,7 +23,7 @@ const Navbar = () => {
           <div className="nav">Contact</div>
         </Link>
         <a href="/events">
-        <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-10">
+        <button className=" bg-[#ff0099] text-[#fff] rounded-full py-2 px-10">
           <h1>Lets Go</h1>
         </button>
         </a>

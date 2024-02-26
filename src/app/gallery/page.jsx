@@ -12,78 +12,78 @@ const page = () => {
           transition={{ duration: 2 }}
           whileInView={{ x: 0 }}
         >
-            <img src="talentExpo.png" alt="" />
+            <img src="talentExpo.png" alt="" className="rounded-lg"/>
         </motion.div>
         <motion.div className="col-span-1 row-span-1 flex justify-center items-center"
-        initial={{ y:-200 }}
+        initial={{ x:300 }}
         transition={{ duration: 2 }}
-        whileInView={{ y: 0 }}
+        whileInView={{ x: 0 }}
         >
             <img src="web.png" alt="" />
         </motion.div>
         <motion.div className="col-span-1 row-span-1 flex justify-center items-center"
-           initial={{ y:200 }}
+           initial={{ y:300 }}
            transition={{ duration: 2 }}
            whileInView={{ y: 0 }}
         >
-            <img src="coding.png" alt="" />
+            <img src="coding.png" alt="" className="rounded-lg"/>
         </motion.div>
       </div>
       <motion.div className="flex justify-center items-center my-12"
-       initial={{ opacity:0,scale:0}}
+       initial={{scale:0}}
        transition={{ duration:2,ease:"easeInOut"}}
-       whileInView={{ opacity: 1 ,scale:1}}
+       whileInView={{scale:1}}
       >
-        <img src="reverse coding.png" alt="" />
+        <img src="reverse coding.png" alt="" className="rounded-lg"/>
       </motion.div>
       <div className="flex justify-evenly mx-[50px] my-12">
       <motion.div className="flex justify-center items-center"
-       initial={{ x:200 }}
+       initial={{ x:300 }}
        transition={{ duration: 2 }}
        whileInView={{ x: 0 }}
       >
             <img src="ml.png" alt="" />
         </motion.div>
         <motion.div className="flex justify-center items-center"
-         initial={{ x:-200 }}
+         initial={{ x:-300 }}
          transition={{ duration: 2 }}
          whileInView={{ x: 0 }}
         >
-            <img src="pixelperfect.png" alt="" />
+            <img src="pixelperfect.png" alt="" className="rounded-lg"/>
         </motion.div>
       </div>
 
       <div className="flex justify-evenly mx-[50px] my-12">
       <motion.div className="flex justify-center items-center"
-       initial={{ x:-200 }}
+       initial={{ x:-300 }}
        transition={{ duration: 2 }}
        whileInView={{ x: 0 }}
       >
-            <img src="quize.png" alt="" />
+            <img src="quize.png" alt="" className="rounded-lg"/>
         </motion.div>
         <motion.div className="flex justify-center items-center"
-         initial={{ x:200 }}
+         initial={{ x:300 }}
          transition={{ duration: 2 }}
          whileInView={{ x: 0 }}
         >
-            <img src="projectExpo.png" alt="" />
+            <img src="projectExpo.png" alt="" className="rounded-lg"/>
         </motion.div>
       </div>
 
       <div className="flex justify-evenly mx-[50px] my-12">
       <motion.div className="flex justify-center items-center"
-       initial={{ x:200 }}
+       initial={{ x:300 }}
        transition={{ duration: 2 }}
        whileInView={{ x: 0 }}
       >
-            <img src="vlog.png" alt="" />
+            <img src="vlog.png" alt="" className="rounded-lg"/>
         </motion.div>
         <motion.div className="flex justify-center items-center"
-         initial={{ x:-200 }}
+         initial={{ x:-300 }}
          transition={{ duration: 2 }}
          whileInView={{ x: 0 }}
         >
-            <img src="presentation.png" alt="" />
+            <img src="presentation.png" alt="" className="rounded-lg"/>
         </motion.div>
       </div>
     </div>

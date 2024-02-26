@@ -8,10 +8,10 @@ const page = () => {
       </div>
 
       {/* start */}
-      <div className="flex flex-col gap-10 m-[50px] ring-1 p-10 rounded-2xl bgm">
+      <div className="flex flex-col gap-10 m-[60px] ring-1 p-10 rounded-2xl bgm">
         <div className="flex justify-center items-center flex-col mx-[50px]">
-          <img src="inventium.png" alt="" className="w-[200px]" />
-          <h1 className="my-[20px] font-bold text-[25px]">INVENTUM_2k24</h1>
+          <img src="inventium.png" alt="" className="w-[200px] mr-12" />
+          <h1 className="my-[20px] font-bold text-[25px] mr-12">INVENTUM_2k24</h1>
         </div>
 
         <div className="flex justify-evenly items-center">
@@ -68,8 +68,8 @@ const page = () => {
         {/* start */}
         <div className="flex flex-col gap-10 m-[50px] ring-1 p-10 rounded-2xl bgm1">
         <div className="flex justify-center items-center flex-col mx-[50px]">
-          <img src="cursor.png" alt="" className="w-[200px]" />
-          <h1 className="my-[20px] font-bold text-[25px]">CURSOR_2k24</h1>
+          <img src="cursor.png" alt="" className="w-[200px] mr-12" />
+          <h1 className="my-[20px] font-bold text-[25px] mr-12">CURSOR_2k24</h1>
         </div>
 
         <div className="flex justify-evenly items-center">
@@ -126,8 +126,8 @@ const page = () => {
         {/* start */}
         <div className="flex flex-col gap-10 m-[50px] ring-1 p-10 rounded-2xl bgm2">
         <div className="flex justify-center items-center flex-col mx-[50px]">
-          <img src="ignition.png" alt="" className="w-[200px]" />
-          <h1 className="my-[20px] font-bold text-[25px]">IGNITION_2k24</h1>
+          <img src="ignition.png" alt="" className="w-[200px] mr-12" />
+          <h1 className="my-[20px] font-bold text-[25px] mr-12">IGNITION_2k24</h1>
         </div>
 
         <div className="flex justify-evenly items-center">
@@ -184,8 +184,8 @@ const page = () => {
         {/* start */}
         <div className="flex flex-col gap-10 m-[50px] ring-1 p-10 rounded-2xl bgm3">
         <div className="flex justify-center items-center flex-col mx-[50px]">
-          <img src="elektra.png" alt="" className="w-[200px]" />
-          <h1 className="my-[20px] font-bold text-[25px]">ELEKTRA_2k24</h1>
+          <img src="elektra.png" alt="" className="w-[200px] mr-12" />
+          <h1 className="my-[20px] font-bold text-[25px] mr-12">ELEKTRA_2k24</h1>
         </div>
 
         <div className="flex justify-evenly items-center">
