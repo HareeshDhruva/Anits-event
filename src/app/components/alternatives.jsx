@@ -10,7 +10,7 @@ const Alternatives = () => {
             colors and taking a few pictures. It gets you out of the monotony of
             late winter and interacting with friends or family you might not
             normally have fun with. The Holi celebrations I attended were always
-            extremely inclusive — my Hindu relatives, young and old, were excited
+            extremely inclusive my Hindu relatives, young and old, were excited
             to share the day with anyone interested in celebrating.
           </p>
         </div>
@@ -28,7 +28,7 @@ const Alternatives = () => {
           <p>
             One of the most remarkable things about the Indian color festival is
             how enthusiastic and care-free it is. It is purely a day of fun. I
-            didn't love being dragged to temple as a child, but going to temple
+            didnt love being dragged to temple as a child, but going to temple
             for Holi was an exception. Because running around throwing colors
             was something I could always get on board with.
           </p>
@@ -60,8 +60,8 @@ const Alternatives = () => {
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">ELEKTRA_2K24</h1>
           <p>
             One of the most remarkable things about the Indian color festival is
-            how enthusiastic and care-free it is. It is purely a day of fun. I
-            didn't love being dragged to temple as a child, but going to temple
+            how enthusiastic and carefree it is. It is purely a day of fun. I
+            didnt love being dragged to temple as a child, but going to temple
             for Holi was an exception. Because running around throwing colors
             was something I could always get on board with.
           </p>
