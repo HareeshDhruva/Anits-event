@@ -32,13 +32,13 @@ const page = () => {
           <input
             type="text"
             placeholder="hareesh"
-            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099]"
+            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none"
           />
           <p className="ml-4">Your mail</p>
           <input
             type="text"
             placeholder="hareeshdhruva123@gmail.com"
-            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099]"
+            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none"
           />
           <p className="ml-4">Your message</p>
           <textarea
