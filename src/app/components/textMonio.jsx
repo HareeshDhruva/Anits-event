@@ -17,9 +17,11 @@ const TextMonio = () => {
             </p>
           </div>
         </div>
+        <a href="/events">
         <button className="rounded-full py-2 px-10 text-[#fff] bg-[#ff0099]">
           Lets Go
         </button>
+        </a>
       </div>
     </>
   );

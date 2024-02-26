@@ -1,9 +1,16 @@
 "use client";
+import { motion } from "framer-motion";
 const Alternatives = () => {
   return (
     <div className="my-20 mx-[50px] flex flex-col gap-[40px]">
-      <div className="flex justify-center gap-[165px] items-center p-1">
-        <div className="w-1/2">
+      <motion.div className="flex justify-center gap-[165px] items-center p-1"
+           initial={{ x: -1000,
+            opacity:0 }}
+          whileInView={{ x: 0,opacity:1 }}
+          transition={{ ease: "easeOut", duration: 2 }}
+      >
+        <div className="w-1/2"
+        >
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">
             INVENTUM_2K24
           </h1>
@@ -18,9 +25,14 @@ const Alternatives = () => {
         <div>
           <img src="inventium.png" alt="Inventium logo" />
         </div>
-      </div>
+      </motion.div>
 
-      <div className="flex justify-center items-center p-1 gap-[165px]">
+      <motion.div className="flex justify-center items-center p-1 gap-[165px]"
+        initial={{ x: 1000,
+        opacity:0 }}
+        whileInView={{ x: 0,opacity:1 }}
+        transition={{ ease: "easeOut", duration: 2 }}
+      >
         <div>
           <img src="cursor.png" alt="Cursor logo" />
         </div>
@@ -37,9 +49,14 @@ const Alternatives = () => {
             unforgettable journey blending technology and creativity!
           </p>
         </div>
-      </div>
+      </motion.div>
 
-      <div className="flex justify-center gap-[165px] items-center p-1">
+      <motion.div className="flex justify-center gap-[165px] items-center p-1"
+      initial={{ x: -1000,
+      opacity:0 }}
+      whileInView={{ x: 0,opacity:1 }}
+      transition={{ ease: "easeOut", duration: 2 }}
+      >
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">
             IGNITION_2k24
@@ -55,9 +72,14 @@ const Alternatives = () => {
         <div>
           <img src="ignition.png" alt="Ignition logo" />
         </div>
-      </div>
+      </motion.div>
 
-      <div className="flex justify-center items-center p-1 gap-[165px]">
+      <motion.div className="flex justify-center items-center p-1 gap-[165px]"
+      initial={{ x: 1000,
+      opacity:0 }}
+      whileInView={{ x: 0,opacity:1 }}
+      transition={{ ease: "easeOut", duration: 2 }}
+      >
         <div>
           <img src="elektra.png" alt="Elektra logo" />
         </div>
@@ -75,7 +97,7 @@ const Alternatives = () => {
             Kaleidosave, and Kheel Mahotsav.
           </p>
         </div>
-      </div>
+      </motion.div>
     </div>
   );
 };

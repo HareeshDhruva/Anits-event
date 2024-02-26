@@ -20,7 +20,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -29,7 +31,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -41,7 +45,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -50,7 +56,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -70,7 +78,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -79,7 +89,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -91,7 +103,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -100,7 +114,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -120,7 +136,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -129,7 +147,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -141,7 +161,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -150,7 +172,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -170,7 +194,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -179,7 +205,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -191,7 +219,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
@@ -200,7 +230,9 @@ const page = () => {
             <div>
                 <h1 className="text-[20px] font-medium my-3">PIXEL PERFECT</h1>
               <button className=" bg-[#ff0099] text-[#fff] rounded-lg py-2 px-6">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScv5dhXb6VeEaozOIORARUMXhtABV7TgJMr_O83g-5tz_iHOw/viewform">
                 <h1>Register</h1>
+                </a>
               </button>
             </div>
           </div>
