@@ -32,13 +32,13 @@ const page = () => {
           <input
             type="text"
             placeholder="hareesh"
-            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none"
+            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none p-4"
           />
           <p className="ml-4">Your mail</p>
           <input
             type="text"
             placeholder="hareeshdhruva123@gmail.com"
-            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none"
+            className=" mx-[20px] text-gray-400 border-b-2 border-b-[#ff0099] focus:outline-none p-4"
           />
           <p className="ml-4">Your message</p>
           <textarea
@@ -46,7 +46,7 @@ const page = () => {
             id=""
             cols="30"
             rows="10"
-            className="ring-2 mx-[20px] rounded-2xl resize-none ring-[#ff0099]"
+            className="ring-2 mx-[20px] rounded-2xl resize-none ring-[#ff0099] p-4 focus:outline-none"
           ></textarea>
           <button className=" bg-[#ff0099] text-[#fff] rounded-full py-2 px-10 mx-[20px]">
             <h1>Send message</h1>
