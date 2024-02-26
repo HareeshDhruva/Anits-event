@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="flex flex-col text-black-100 mt-5 border-t border-gray-100">
       <div className="flex justify-between items-center flex-wrap gap-5 sm:px-16 px-6 py-10 ">
         <div className="text-white">
-          <span className="text-[#ff6694] font-bold">ANITS FEST 2K24</span>
+          <span className="text-[#ff0099] font-bold">ANITS FEST 2K24</span>
           <br/>
           <div className>
           <p className="flex-wrap max-w-[400px] text-gray-400">
@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="flex gap-10">
           {footerLinks.map((link) => (
             <div key={link.title}>
-              <h3 className="font-bold">{link.title}</h3>
+              <h3 className="font-bold text-[#ff0099]">{link.title}</h3>
               {link.links.map((item) => (
                 <li
                   key={item.title}

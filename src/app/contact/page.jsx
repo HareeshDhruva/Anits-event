@@ -27,7 +27,7 @@ const page = () => {
             </div>
           </div>
         </div>
-        <div className=" w-1/2 flex flex-col gap-4 mx-[20px] ring-2 ring-black px-5 py-6 rounded-2xl bg-white">
+        <div className=" w-1/2 flex flex-col gap-4 mx-[20px] ring-2 ring-black px-5 py-6 rounded-2xl bg-white z-10">
           <p className="ml-4">Your name</p>
           <input
             type="text"
