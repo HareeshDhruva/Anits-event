@@ -10,14 +10,14 @@ const Alternatives = () => {
       >
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">INVENTUM_2K24</h1>
-          <P>
+          <p>
           Attending a Holi festival feels like so much more than just throwing
           colors and taking a few pictures. It gets you out of the monotony of
           late winter and interacting with friends or family you might not
           normally have fun with. The Holi celebrations I attended were always
           extremely inclusive — my Hindu relatives, young and old, were excited
           to share the day with anyone interested in celebrating.
-          </P>
+          </p>
         </div>
         <div>
           <img src="inventium.png" alt="ok" />
