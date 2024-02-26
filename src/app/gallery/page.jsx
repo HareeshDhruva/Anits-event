@@ -8,7 +8,7 @@ const page = () => {
         <h1 className="text-center my-10 text-[50px] uppercase font-bold text-[#ff0099]">Gallery</h1>
       </div>
       <div className="z-0">
-          <Image src="bg.svg" alt="" className="opacity-[0.3] left-0 right-0 top-20 fixed z-0 ring-1" width={1500} height={1200} />
+          <Image src="bg.svg" alt="" className="opacity-[0.3] left-0 right-0 top-20 fixed z-0 " width={1500} height={1200} />
       </div>
       <div className="grid grid-cols-2 grid-rows-2 mx-[50px] z-10">
         <motion.div className="col-span-1 row-span-2 flex justify-center items-center"
