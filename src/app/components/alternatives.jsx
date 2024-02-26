@@ -4,9 +4,6 @@ const Alternatives = () => {
     <div className="my-20 mx-[50px] flex flex-col gap-[40px]">
       <div
         className="flex justify-center gap-[165px] items-center p-1"
-        initial={{ x: -1000, opacity: 0 }}
-        whileInView={{ x: 0, opacity: 1 }}
-        transition={{ ease: "easeOut", duration: 2 }}
       >
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">INVENTUM_2K24</h1>
@@ -25,17 +22,13 @@ const Alternatives = () => {
       </div>
 
       <div
-        className="flex justify-center items-center p-1 gap-[165px]"
-        initial={{ x: 1000, opacity: 0 }}
-        whileInView={{ x: 0, opacity: 1 }}
-        transition={{ ease: "easeOut", duration: 2, delay: 0.2 }}
       >
-        <div className="">
+        <div>
           <img src="cursor.png" alt="ok" />
         </div>
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">CURSOR_2k24</h1>
-          <p className="">
+          <p>
             One of the most remarkable things about the Indian color festival is
             how enthusiastic and care-free it is. It is purely a day of fun. I
             didn't love being dragged to temple as a child, but going to temple
@@ -45,10 +38,6 @@ const Alternatives = () => {
         </div>
       </div>
       <div
-        className="flex justify-center items-center p-1 gap-[165px]"
-        initial={{ x: -1000, opacity: 0 }}
-        whileInView={{ x: 0, opacity: 1 }}
-        transition={{ ease: "easeOut", duration: 2 }}
       >
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">IGNITION_2k24</h1>
@@ -68,12 +57,12 @@ const Alternatives = () => {
       <div
         className="flex justify-center items-center p-1 gap-[165px]"
       >
-        <div className="">
+        <div>
           <img src="elektra.png" alt="ok" />
         </div>
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">ELEKTRA_2K24</h1>
-          <p className="">
+          <p>
             One of the most remarkable things about the Indian color festival is
             how enthusiastic and care-free it is. It is purely a day of fun. I
             didn't love being dragged to temple as a child, but going to temple
