@@ -38,6 +38,13 @@ const HeroSection = () => {
             </div>
           </motion.div>
         </div>
+
+        <div className="absolute">
+          <div>
+          <img src="bg.svg" alt="" className="opacity-[0.6] h-[900px]" />
+          </div>
+        </div>
+
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -58,9 +65,6 @@ const HeroSection = () => {
             </div>
           </marquee>
         </div>
-        {/* <div className="z-0 top-10">
-          <img src="bg.svg" alt="" className="opacity-[0.3]" />
-        </div> */}
     </>
   );
 };
