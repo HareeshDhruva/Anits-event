@@ -2,29 +2,26 @@
 const Alternatives = () => {
   return (
     <div className="my-20 mx-[50px] flex flex-col gap-[40px]">
-      <div
-        className="flex justify-center gap-[165px] items-center p-1"
-      >
+      <div className="flex justify-center gap-[165px] items-center p-1">
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">INVENTUM_2K24</h1>
           <p>
-          Attending a Holi festival feels like so much more than just throwing
-          colors and taking a few pictures. It gets you out of the monotony of
-          late winter and interacting with friends or family you might not
-          normally have fun with. The Holi celebrations I attended were always
-          extremely inclusive — my Hindu relatives, young and old, were excited
-          to share the day with anyone interested in celebrating.
+            Attending a Holi festival feels like so much more than just throwing
+            colors and taking a few pictures. It gets you out of the monotony of
+            late winter and interacting with friends or family you might not
+            normally have fun with. The Holi celebrations I attended were always
+            extremely inclusive — my Hindu relatives, young and old, were excited
+            to share the day with anyone interested in celebrating.
           </p>
         </div>
         <div>
-          <img src="inventium.png" alt="ok" />
+          <img src="inventium.png" alt="Inventium logo" />
         </div>
       </div>
 
-      <div
-      >
+      <div>
         <div>
-          <img src="cursor.png" alt="ok" />
+          <img src="cursor.png" alt="Cursor logo" />
         </div>
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">CURSOR_2k24</h1>
@@ -37,28 +34,27 @@ const Alternatives = () => {
           </p>
         </div>
       </div>
-      <div
-      >
+
+      <div>
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">IGNITION_2k24</h1>
           <p>
-          Attending a Holi festival feels like so much more than just throwing
-          colors and taking a few pictures. It gets you out of the monotony of
-          late winter and interacting with friends or family you might not
-          normally have fun with. The Holi celebrations I attended were always
-          extremely inclusive — my Hindu relatives, young and old, were excited
-          to share the day with anyone interested in celebrating.
+            Attending a Holi festival feels like so much more than just throwing
+            colors and taking a few pictures. It gets you out of the monotony of
+            late winter and interacting with friends or family you might not
+            normally have fun with. The Holi celebrations I attended were always
+            extremely inclusive — my Hindu relatives, young and old, were excited
+            to share the day with anyone interested in celebrating.
           </p>
         </div>
         <div>
-          <img src="ignition.png" alt="ok" />
+          <img src="ignition.png" alt="Ignition logo" />
         </div>
       </div>
-      <div
-        className="flex justify-center items-center p-1 gap-[165px]"
-      >
+
+      <div className="flex justify-center items-center p-1 gap-[165px]">
         <div>
-          <img src="elektra.png" alt="ok" />
+          <img src="elektra.png" alt="Elektra logo" />
         </div>
         <div className="w-1/2">
           <h1 className="my-[20px] font-bold text-[35px] text-[#ff0099]">ELEKTRA_2K24</h1>
