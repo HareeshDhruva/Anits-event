@@ -2,7 +2,7 @@ const page = () => {
   return (
     <div>
       <div>
-        <h1 className="text-center text-[50px] uppercase font-bold text-[#ff0099]">
+        <h1 className="text-center text-[50px] uppercase font-bold text-[#ff0099] mr-12">
           Events
         </h1>
       </div>
