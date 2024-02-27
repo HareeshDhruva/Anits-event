@@ -39,11 +39,13 @@ const HeroSection = () => {
           </motion.div>
         </div>
 
-        <div className="absolute">
+        <motion.div className="absolute"
+        
+        >
           <div>
           <img src="bg.svg" alt="" className="opacity-[0.6] h-[900px]" />
           </div>
-        </div>
+        </motion.div>
 
         <motion.div
           initial={{ opacity: 0 }}
@@ -51,7 +53,7 @@ const HeroSection = () => {
           transition={{ ease: "easeOut", duration: 2 }}
           className="w-[803px] z-10"
         >
-          <img src="anits.png" alt="hero" />
+          <img src="anits.png" alt="hero"/>
         </motion.div>
 
       </div>
